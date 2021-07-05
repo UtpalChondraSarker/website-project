@@ -1,0 +1,121 @@
+.color{
+    color: orange;
+    font-weight: 700;
+}
+
+.container{
+    display: flex;
+    margin-bottom: 150;
+}
+.hlaf-width{
+    width: 50%;
+    padding-left: 30px;
+    padding-top: 10px;
+    margin: 20px;
+    text-align: justify;
+    
+    
+}
+.shadow{
+
+    text-shadow: 1px 2px red ;
+    word-spacing: 5px;
+    
+}
+.hlaf-width img{
+    width: 70%;
+    
+}
+body{
+    margin: 0%;
+}
+h1{
+    font-family: 'Noto Sans KR', sans-serif;
+    width: 300px;
+
+}
+.button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 8px 30px;
+    color: white;
+    border-radius: 4px;
+    border: 2px solid green;
+    font-weight: 700;
+    
+    
+}
+.top-baner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.um{
+    width: 70;
+    padding-left: 100px;
+}
+.right-baner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.Experiences-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100px;
+  
+}
+.utpal{
+    box-shadow: 10px 10px 40px ;
+    padding: 30px 50px  60px 70px;
+    margin: 40px;
+    border-left: 8px solid;
+    border-image: linear-gradient(blue,green);
+    border-image-slice: 1;
+    border-bottom: 3px solid;
+    border-image:linear-gradient(blue,red);
+    border-image-slice: 1;
+    background-color: lightblue;
+    text-align: justify;
+    
+ 
+    
+}
+
+#web-develoment{
+    border-left: 8px solid;
+    border-image:linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    border-top: 3px solid;
+    border-image: linear-gradient(red,green);
+    border-image-slice: 1;
+    border-bottom: 3px solid;
+    border-image: linear-gradient(red,orange);
+    border-image-slice: 1;
+    border-radius: 2px;
+    background-color:gray;
+    color: white;
+   
+}
+.rol{
+    word-spacing: 5px;
+    text-shadow: 1px 1px red;
+}
+
+
+
+footer p{
+    text-align: center;
+    font-size: 20px;
+}
+
+ a:hover{
+    background: yellow;
+    color: red;
+}
+#click{
+    background-color: green;
+    border:2px solid red;
+}
+
